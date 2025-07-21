@@ -1,0 +1,7 @@
+{
+  "species_name": "example",
+  "max_observations": 20,
+  "max_photos_per_observation": 10,
+  "base_folder": "downloads",
+  "api_url": "https://example.com"
+}
